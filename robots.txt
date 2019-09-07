@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahyathohva.kmoskovtsev.com/sitemap.xml
